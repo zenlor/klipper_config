@@ -43,9 +43,3 @@ path: ~/fluidd
 type: web
 repo: mainsail-crew/mainsail
 path: ~/mainsail
-
-# Crowsnest update_manager entry
-[update_manager webcamd]
-type: git_repo
-path: ~/crowsnest
-origin: https://github.com/mainsail-crew/crowsnest.git
